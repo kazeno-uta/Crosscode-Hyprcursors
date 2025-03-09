@@ -1,0 +1,15 @@
+# Size 0 due to SVG
+define_size = 0, size_bdiag.svg
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: center
+hotspot_x = 0.50
+hotspot_y = 0.50
+
+# Name
+define_override = size_bdiag
+define_override = ne-resize
+define_override = sw-resize
+define_override = nesw-resize

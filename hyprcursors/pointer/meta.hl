@@ -1,0 +1,12 @@
+# Size 0 due to SVG
+define_size = 0, pointer.svg
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: tip of finger
+hotspot_x = 0.33
+hotspot_y = 0.28
+
+# Name
+define_override = pointer
