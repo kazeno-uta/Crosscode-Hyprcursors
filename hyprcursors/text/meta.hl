@@ -1,0 +1,12 @@
+# Size 0 due to SVG
+define_size = 0, text.svg
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: center
+hotspot_x = 0.25
+hotspot_y = 0.30
+
+# Name
+define_override = text

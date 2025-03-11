@@ -1,0 +1,13 @@
+# Size 0 due to SVG
+define_size = 0, dnd-no-drop.svg
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: center
+hotspot_x = 0.31
+hotspot_y = 0.22
+
+# Name
+define_override = dnd-no-drop
+define_override = no-drop

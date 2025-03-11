@@ -1,0 +1,13 @@
+# Size 0 due to SVG
+define_size = 0, top_side.svg
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: top-center
+hotspot_x = 0.50
+hotspot_y = 0.70
+
+# Name
+define_override = top_side
+define_override = n-resize

@@ -1,0 +1,12 @@
+# Size 0 due to SVG
+define_size = 0, right-arrow.svg
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: center-right
+hotspot_x = 0.81
+hotspot_y = 0.52
+
+# Name
+define_override = right-arrow

@@ -1,0 +1,13 @@
+# Size 0 due to SVG
+define_size = 0, size_ver.svg
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: center
+hotspot_x = 0.48
+hotspot_y = 0.52
+
+# Name
+define_override = size_ver
+define_override = ns-resize

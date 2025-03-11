@@ -1,0 +1,13 @@
+# Size 0 due to SVG
+define_size = 0, grab.svg
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: center of hand
+hotspot_x = 0.54
+hotspot_y = 0.38
+
+# Name
+define_override = openhand
+define_override = grab

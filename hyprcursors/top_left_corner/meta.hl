@@ -1,0 +1,12 @@
+# Size 0 due to SVG
+define_size = 0, top_left_corner.svg
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: top-left
+hotspot_x = 0.16
+hotspot_y = 0.84
+
+# Name
+define_override = top_left_corner

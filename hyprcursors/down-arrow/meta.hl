@@ -1,0 +1,12 @@
+# Size 0 due to SVG
+define_size = 0, down-arrow.svg
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: bottom-center
+hotspot_x = 0.48
+hotspot_y = 0.19
+
+# Name
+define_override = down-arrow

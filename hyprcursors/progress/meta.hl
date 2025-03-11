@@ -1,0 +1,24 @@
+# Size 0 due to SVG
+# Animate 50 ms per frame
+define_size = 0, progress-01.svg, 50
+define_size = 0, progress-02.svg, 50
+define_size = 0, progress-03.svg, 50
+define_size = 0, progress-04.svg, 50
+define_size = 0, progress-05.svg, 50
+define_size = 0, progress-06.svg, 50
+define_size = 0, progress-07.svg, 50
+define_size = 0, progress-08.svg, 50
+define_size = 0, progress-09.svg, 50
+define_size = 0, progress-10.svg, 50
+define_size = 0, progress-11.svg, 50
+define_size = 0, progress-12.svg, 50
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: top-left
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+# Name
+define_override = progress

@@ -1,0 +1,12 @@
+# Size 0 due to SVG
+define_size = 0, draft.svg
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: inside of the loop
+hotspot_x = 0.41
+hotspot_y = 0.37
+
+# Name
+define_override = draft

@@ -10,3 +10,5 @@ hotspot_y = 0.52
 
 # Name
 define_override = all-scroll
+define_override = move
+define_override = fleur

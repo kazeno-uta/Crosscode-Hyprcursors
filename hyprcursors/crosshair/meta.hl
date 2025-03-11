@@ -1,0 +1,15 @@
+# Size 0 due to SVG
+define_size = 0, crosshair-0.svg, 500
+define_size = 0, crosshair-1.svg, 40
+define_size = 0, crosshair-2.svg, 70
+define_size = 0, crosshair-3.svg, 999999999999
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: center
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+# Name
+define_override = crosshair

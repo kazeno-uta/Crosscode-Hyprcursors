@@ -10,3 +10,4 @@ hotspot_y = 0.28
 
 # Name
 define_override = pointer
+define_override = copy

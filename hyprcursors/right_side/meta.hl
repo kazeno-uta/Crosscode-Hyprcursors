@@ -1,0 +1,13 @@
+# Size 0 due to SVG
+define_size = 0, right_side.svg
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: center-right
+hotspot_x = 0.67
+hotspot_y = 0.50
+
+# Name
+define_override = right_side
+define_override = e-resize
