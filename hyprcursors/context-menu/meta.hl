@@ -6,7 +6,7 @@ resize_algorithm = none
 
 # Clickpoint: top-left
 hotspot_x = 0.04
-hotspot_y = 0.96
+hotspot_y = 0.04
 
 # Name
 define_override = context-menu

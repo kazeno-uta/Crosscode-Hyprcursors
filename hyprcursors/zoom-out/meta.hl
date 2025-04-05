@@ -6,7 +6,7 @@ resize_algorithm = none
 
 # Clickpoint: center of minus
 hotspot_x = 0.42
-hotspot_y = 0.58
+hotspot_y = 0.28
 
 # Name
 define_override = zoom-out
